@@ -9,7 +9,7 @@ from datetime import datetime
 
 
 # token do device criado no Thingsboard
-password= "4MPXTVQqsmObvx7fkXWW"
+password= ""
 # Endereço do broker, no caso o host do Thingsboard
 broker = "thingsboard.lcc.ime.uerj.br"
 # topico do dispositivo
